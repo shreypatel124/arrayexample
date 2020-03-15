@@ -1,0 +1,2 @@
+# arrayexample
+simple array example
